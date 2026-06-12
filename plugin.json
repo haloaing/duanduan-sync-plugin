@@ -1,0 +1,16 @@
+{
+  "name": "duanduan-sync-plugin",
+  "author": "Haloaing",
+  "url": "https://github.com/haloaing/duanduan-sync-plugin",
+  "version": "1.0.0",
+  "displayName": {
+    "default": "Duanduan Sync",
+    "zh_CN": "端端同步"
+  },
+  "description": {
+    "default": "LAN sync for SiYuan notes",
+    "zh_CN": "一款本地网络内多设备端到端笔记数据同步插件"
+  },
+  "type": "plugin",
+  "contributes": {}
+}
