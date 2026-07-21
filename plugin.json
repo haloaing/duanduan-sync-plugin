@@ -11,6 +11,8 @@
     "default": "LAN sync for SiYuan notes",
     "zh_CN": "一款本地网络内多设备端到端笔记数据同步插件"
   },
-  "type": "plugin",
-  "contributes": {}
+  "readme": {
+    "default": "README.md",
+    "zh-CN": "README.md"
+  }
 }
